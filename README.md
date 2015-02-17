@@ -9,5 +9,5 @@ The first link uses ionic but not ui-router, the second has ui-router and angula
 
 Note that the demo uses meteor's login utility so you'll have to setup with one of the oauth providers (facebook, twitter or github) or create a meteor login.
 
-Once the mobile app works there's a really short tutorial showing how to deploy to ec2 - https://www.youtube.com/watch?v=11K_DSrhJzQ
+If you're looking to host your own Meteor app there's a really short tutorial showing how to deploy to ec2 - https://www.youtube.com/watch?v=11K_DSrhJzQ
 
